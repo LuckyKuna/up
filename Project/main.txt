@@ -1,0 +1,359 @@
+                <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <!-- Main Demo -->
+                            <div class="row ">
+                                <div class="col-md-6 order-md-2 mb-10 mb-md-0">
+                                    <!-- Browser Device -->
+                                    <figure class="device-browser">
+                                        <div class="device-browser-header">
+                                            <div class="device-browser-header-btn-list">
+                                                <span class="device-browser-header-btn-list-btn"></span>
+                                                <span class="device-browser-header-btn-list-btn"></span>
+                                                <span class="device-browser-header-btn-list-btn"></span>
+                                            </div>
+                                            <div class="device-browser-header-browser-bar">
+                                                www.htmlstream.com/front/</div>
+                                        </div>
+
+                                        <div class="device-browser-frame">
+                                            <img class="device-browser-img" src="./images/img7.jpg"
+                                                alt="Image Description">
+                                        </div>
+
+                                        <div class="frame-shadow"></div>
+                                    </figure>
+                                    <!-- End Browser Device -->
+                                </div>
+                                <!-- End Col -->
+
+                                <div class="col-md-6">
+                                    <div class="pe-md-7">
+                                        <div class="mb-5">
+                                            <div class="mb-5">
+                                                <span class="badge border border-dark text-dark">59
+                                                    Pages</span>
+                                            </div>
+
+                                            <h2 class="mb-3">Main Demo</h2>
+                                            <p class="fs-4">Front's main demo comes with 16 landing pages,
+                                                including over 40 commonly
+                                                used pages that can be combined with another 6 pre-built
+                                                demos.</p>
+                                        </div>
+                                        <a class="btn btn-primary" target="_blank"
+                                            href="./landing-classic-corporate.html">Preview Main
+                                            Demo <i class="bi-box-arrow-up-right ms-2"></i></a>
+                                    </div>
+                                </div>
+                                <!-- End Col -->
+                            </div>
+                            <!-- End Main Demo -->
+                        </div>
+                        <div class="carousel-item">
+                            <!-- E-Commerce Demo -->
+                            <div class="row ">
+                                <div class="col-md-6 order-md-2 mb-10 mb-md-0">
+                                    <!-- Browser Device -->
+                                    <figure class="device-browser">
+                                        <div class="device-browser-header">
+                                            <div class="device-browser-header-btn-list">
+                                                <span class="device-browser-header-btn-list-btn"></span>
+                                                <span class="device-browser-header-btn-list-btn"></span>
+                                                <span class="device-browser-header-btn-list-btn"></span>
+                                            </div>
+                                            <div class="device-browser-header-browser-bar">
+                                                www.htmlstream.com/front/</div>
+                                        </div>
+
+                                        <div class="device-browser-frame">
+                                            <img class="device-browser-img" src="./images/img9.jpg"
+                                                alt="Image Description">
+                                        </div>
+
+                                        <!-- <div class="position-absolute bottom-0 start-0 w-100 h-100 bg-soft-danger zi-n1 mb-n6 ms-n6">
+                        </div> -->
+                                    </figure>
+                                    <!-- End Browser Device -->
+                                </div>
+                                <!-- End Col -->
+
+                                <div class="col-md-6">
+                                    <div class="pe-md-7">
+                                        <div class="mb-5">
+                                            <div class="mb-5">
+                                                <span class="badge border border-dark text-dark">10
+                                                    Pages</span>
+                                            </div>
+
+                                            <h2 class="mb-3">E-Commerce Demo</h2>
+                                            <p class="fs-4">Customize the appearance of products, lists,
+                                                components, and snippets, but
+                                                also cart, checkout, and other E-commerce pages.</p>
+                                        </div>
+                                        <a class="btn btn-primary" target="_blank" href="./demo-shop/index.html">Preview
+                                            Shop Demo <i class="bi-box-arrow-up-right ms-2"></i></a>
+                                    </div>
+                                </div>
+                                <!-- End Col -->
+                            </div>
+                            <!-- End E-Commerce Demo -->
+                        </div>
+                        <div class="carousel-item">
+                            <!-- Jobs Demo -->
+                            <div class="row ">
+                                <div class="col-md-6 order-md-2 mb-10 mb-md-0">
+                                    <!-- Browser Device -->
+                                    <figure class="device-browser">
+                                        <div class="device-browser-header">
+                                            <div class="device-browser-header-btn-list">
+                                                <span class="device-browser-header-btn-list-btn"></span>
+                                                <span class="device-browser-header-btn-list-btn"></span>
+                                                <span class="device-browser-header-btn-list-btn"></span>
+                                            </div>
+                                            <div class="device-browser-header-browser-bar">
+                                                www.htmlstream.com/front/</div>
+                                        </div>
+
+                                        <div class="device-browser-frame">
+                                            <img class="device-browser-img" src="./images/img6.jpg"
+                                                alt="Image Description">
+                                        </div>
+
+                                        <div class="frame-shadow"></div>
+                                    </figure>
+                                    <!-- End Browser Device -->
+                                </div>
+                                <!-- End Col -->
+
+                                <div class="col-md-6">
+                                    <div class="pe-md-7">
+                                        <div class="mb-5">
+                                            <div class="mb-5">
+                                                <span class="badge border border-dark text-dark">9
+                                                    Pages</span>
+                                            </div>
+
+                                            <h2 class="mb-3">Jobs Demo</h2>
+                                            <p class="fs-4">Demonstrate your job positions with more dynamic
+                                                and interactive elements of
+                                                Front to quickly put together a more professional looking
+                                                page.</p>
+                                        </div>
+                                        <a class="btn btn-primary" target="_blank" href="./demo-jobs/index.html">Preview
+                                            Jobs Demo <i class="bi-box-arrow-up-right ms-2"></i></a>
+                                    </div>
+                                </div>
+                                <!-- End Col -->
+                            </div>
+                            <!-- End Jobs Demo -->
+                        </div>
+                        <div class="carousel-item">
+                            <!-- Real Estate Demo -->
+                            <div class="row ">
+                                <div class="col-md-6 order-md-2 mb-10 mb-md-0">
+                                    <!-- Browser Device -->
+                                    <figure class="device-browser">
+                                        <div class="device-browser-header">
+                                            <div class="device-browser-header-btn-list">
+                                                <span class="device-browser-header-btn-list-btn"></span>
+                                                <span class="device-browser-header-btn-list-btn"></span>
+                                                <span class="device-browser-header-btn-list-btn"></span>
+                                            </div>
+                                            <div class="device-browser-header-browser-bar">
+                                                www.htmlstream.com/front/</div>
+                                        </div>
+
+                                        <div class="device-browser-frame">
+                                            <img class="device-browser-img" src="./images/img8.jpg"
+                                                alt="Image Description">
+                                        </div>
+
+                                        <div class="frame-shadow"></div>
+                                    </figure>
+                                    <!-- End Browser Device -->
+                                </div>
+                                <!-- End Col -->
+
+                                <div class="col-md-6">
+                                    <div class="pe-md-7">
+                                        <div class="mb-5">
+                                            <div class="mb-5">
+                                                <span class="badge border border-dark text-dark">5
+                                                    Pages</span>
+                                            </div>
+
+                                            <h2 class="mb-3">Real Estate Demo</h2>
+                                            <p class="fs-4">Please your visitors with eye-catching and
+                                                exciting real estate listings.
+                                                Different options and settings to manage your site.</p>
+                                        </div>
+                                        <a class="btn btn-primary" target="_blank"
+                                            href="./demo-real-estate/index.html">Preview Real
+                                            Estate Demo <i class="bi-box-arrow-up-right ms-2"></i></a>
+                                    </div>
+                                </div>
+                                <!-- End Col -->
+                            </div>
+                            <!-- End Real Estate Demo -->
+                        </div>
+                        <div class="carousel-item">
+                            <!-- Courses Demo -->
+                            <div class="row ">
+                                <div class="col-md-6 order-md-2 mb-10 mb-md-0">
+                                    <!-- Browser Device -->
+                                    <figure class="device-browser">
+                                        <div class="device-browser-header">
+                                            <div class="device-browser-header-btn-list">
+                                                <span class="device-browser-header-btn-list-btn"></span>
+                                                <span class="device-browser-header-btn-list-btn"></span>
+                                                <span class="device-browser-header-btn-list-btn"></span>
+                                            </div>
+                                            <div class="device-browser-header-browser-bar">
+                                                www.htmlstream.com/front/</div>
+                                        </div>
+
+                                        <div class="device-browser-frame">
+                                            <img class="device-browser-img" src="./images/img1.jpg"
+                                                alt="Image Description">
+                                        </div>
+
+                                        <div class="frame-shadow"></div>
+                                    </figure>
+                                    <!-- End Browser Device -->
+                                </div>
+                                <!-- End Col -->
+
+                                <div class="col-md-6">
+                                    <div class="pe-md-7">
+                                        <div class="mb-5">
+                                            <div class="mb-5">
+                                                <span class="badge border border-dark text-dark">4
+                                                    Pages</span>
+                                            </div>
+
+                                            <h2 class="mb-3">Courses Demo</h2>
+                                            <p class="fs-4">Build a deep, solid understanding in education
+                                                platform with Front Course
+                                                demo. An online learning and teaching demo.</p>
+                                        </div>
+                                        <a class="btn btn-primary" target="_blank"
+                                            href="./demo-course/index.html">Preview Courses Demo
+                                            <i class="bi-box-arrow-up-right ms-2"></i></a>
+                                    </div>
+                                </div>
+                                <!-- End Col -->
+                            </div>
+                            <!-- End Courses Demo -->
+                        </div>
+                        <div class="carousel-item">
+                            <!-- App Marketplace Demo -->
+                            <div class="row ">
+                                <div class="col-md-6 order-md-2 mb-10 mb-md-0">
+                                    <!-- Browser Device -->
+                                    <figure class="device-browser">
+                                        <div class="device-browser-header">
+                                            <div class="device-browser-header-btn-list">
+                                                <span class="device-browser-header-btn-list-btn"></span>
+                                                <span class="device-browser-header-btn-list-btn"></span>
+                                                <span class="device-browser-header-btn-list-btn"></span>
+                                            </div>
+                                            <div class="device-browser-header-browser-bar">
+                                                www.htmlstream.com/front/</div>
+                                        </div>
+
+                                        <div class="device-browser-frame">
+                                            <img class="device-browser-img" src="./images/img2.jpg"
+                                                alt="Image Description">
+                                        </div>
+
+                                        <!-- <div class="position-absolute bottom-0 start-0 w-100 h-100 bg-soft-warning zi-n1 mb-n6 ms-n6">
+                        </div> -->
+                                    </figure>
+                                    <!-- End Browser Device -->
+                                </div>
+                                <!-- End Col -->
+
+                                <div class="col-md-6">
+                                    <div class="pe-md-7">
+                                        <div class="mb-5">
+                                            <div class="mb-5">
+                                                <span class="badge border border-dark text-dark">4
+                                                    Pages</span>
+                                            </div>
+
+                                            <h2 class="mb-3">App Marketplace Demo</h2>
+                                            <p class="fs-4">Create and run your online business with Front's
+                                                App Marketplace demo. Easy
+                                                to expand and designed to work together.</p>
+                                        </div>
+                                        <a class="btn btn-primary" target="_blank"
+                                            href="./demo-app-marketplace/index.html">Preview App
+                                            Marketplace Demo <i class="bi-box-arrow-up-right ms-2"></i></a>
+                                    </div>
+                                </div>
+                                <!-- End Col -->
+                            </div>
+                            <!-- End App Marketplace Demo -->
+                        </div>
+                        <div class="carousel-item">
+                            <!-- Help Desk Demo -->
+                            <div class="row ">
+                                <div class="col-md-6 order-md-2 mb-10 mb-md-0">
+                                    <!-- Browser Device -->
+                                    <figure class="device-browser">
+                                        <div class="device-browser-header">
+                                            <div class="device-browser-header-btn-list">
+                                                <span class="device-browser-header-btn-list-btn"></span>
+                                                <span class="device-browser-header-btn-list-btn"></span>
+                                                <span class="device-browser-header-btn-list-btn"></span>
+                                            </div>
+                                            <div class="device-browser-header-browser-bar">
+                                                www.htmlstream.com/front/</div>
+                                        </div>
+
+                                        <div class="device-browser-frame">
+                                            <img class="device-browser-img" src="./images/img3.jpg"
+                                                alt="Image Description">
+                                        </div>
+
+                                        <div class="frame-shadow"></div>
+                                    </figure>
+                                    <!-- End Browser Device -->
+                                </div>
+                                <!-- End Col -->
+
+                                <div class="col-md-6">
+                                    <div class="pe-md-7">
+                                        <div class="mb-5">
+                                            <div class="mb-5">
+                                                <span class="badge border border-dark text-dark">3
+                                                    Pages</span>
+                                            </div>
+
+                                            <h2 class="mb-3">Help Desk</h2>
+                                            <p class="fs-4">Find all the answers you are looking for in our
+                                                extensive knowledge base
+                                                demo option.</p>
+                                        </div>
+                                        <a class="btn btn-primary" target="_blank"
+                                            href="./demo-help-desk/index.html">Preview Help Desk
+                                            Demo <i class="bi-box-arrow-up-right ms-2"></i></a>
+                                    </div>
+                                </div>
+                                <!-- End Col -->
+                            </div>
+                            <!-- End Help Desk Demo -->
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
+                        data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls"
+                        data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>

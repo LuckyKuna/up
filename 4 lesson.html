@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <base href="http://up/">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles/style.css">
+    <link type="image/png" rel="icon" href="/images/favicon.png">
+
+
+    <title>4 lesson</title>
+
+</head>
+
+<body>
+    <header>
+        <div class="image">
+            <img src="/images/logo.png" alt="logo">
+        </div>
+        <div class="nav">
+            <ul>
+                <li>
+                    <a href="/">1 урок</a>
+                </li>
+                <li>
+                    <a href="/2 lesson.html">2 урок</a>
+                </li>
+                <li>
+                    <a href="/3 lesson.html">3 урок</a>
+                </li>
+                <li>
+                    <a href="/4 lesson.html">4 урок</a>
+                </li>
+                <li>
+                    <a href="/5 lesson.html">5 урок</a>
+                </li>
+                <li>
+                    <a href="/6 lesson.html">6 урок</a>
+                </li>
+                <li>
+                    <a href="/7 lesson.html">7 урок</a>
+                </li>
+                <li>
+                    <a href="/8 lesson.html">8 урок</a>
+                </li>
+                <li>
+                    <a href="/9 lesson.html">9 урок</a>
+                </li>
+                <li>
+                    <a href="/10 lesson.html">10 урок</a>
+                </li>
+                <li>
+                    <a href="/11 lesson.html">11 урок</a>
+                </li>
+                <li>
+                    <a href="/12 lesson.html">12 урок</a>
+                </li>
+                <li>
+                    <a href="/13 lesson.html">13 урок</a>
+                </li>
+                <li>
+                    <a href="/14 lesson.html">14 урок</a>
+                </li>
+            </ul>
+        </div>
+    </header>
+
+
+
+    <form action="/form.php" method="post" enctype="multipart/form-data" name="form">
+
+        <fieldset class="form1">
+            <legend>Облікові дані</legend>
+            <div>
+                <label for="">Ваше ім'я</label>
+                <input type="text" name="your_name" value="Максим" placeholder="Введіть своє ім'я">
+            </div>
+            <div>
+                <label for="">Введіть пароль</label>
+                <input type="password" name="your_pass" placeholder="Введіть пароль">
+            </div>
+        </fieldset>
+
+        <fieldset class="form2">
+            <legend>Додаткові параметри</legend>
+            <div>
+                <label for="">Заблокований</label>
+                <input type="text" value="Заблокований" disabled>
+            </div>
+            <div>
+                <label for="">Незаблокований</label>
+                <input type="text" value="Незаблокований" readonly>
+            </div>
+            <div>
+                <label for="">Завантажити файл</label>
+                <input type="file" name="file_name">
+            </div>
+            <div>
+                <label for="">Завантажити файли</label>
+                <input type="file" name="file_name" multiple>
+            </div>
+            <div>
+                <label for="">Виберіть країну</label>
+                <input type="text" name="your_country" list="country_list">
+                <datalist id="country_list">
+                    <option>Україна</option>
+                    <option>Польща</option>
+                    <option>США</option>
+                </datalist>
+            </div>
+            <div>
+                Виберіть місто
+                <select name="" id="">
+                    <option value="" selected>Виберіть місто</option>
+                    <option value="Львів">Львів</option>
+                    <option value="Рівне">Рівне</option>
+                    <option value="3">Варшава</option>
+                </select>
+            </div>
+        </fieldset>
+
+        <fieldset class="form3">
+            <legend>Параметри стилів</legend>
+            <div>
+                <label for="">Діапазон</label>
+                <input type="range" name="diapazon" min="0" max="100" step="25">
+                <output>0</output>
+            </div>
+            <div>
+                <label for="">Дата</label>
+                <input type="date" name="date">
+            </div>
+            <div>
+                <label for="">Колір</label>
+                <input type="color" name="select_color">
+            </div>
+            <div>
+                <label for="">Коментар</label>
+                <textarea name="comment" id="" cols="30" rows="4" placeholder="Ваші коментарі"></textarea>
+            </div>
+        </fieldset>
+
+        <fieldset class="form4">
+            <legend>Виберіть декілька значень</legend>
+            <div>
+                <label for="select1">Варіант 1</label>
+                <input type="checkbox" name="select_variations" value="select1" id="select1" style="margin-left: 8px" />
+            </div>
+            <div>
+                <label for="select2">Варіант 2</label>
+                <input type="checkbox" name="select_variations" value="select2" id="select2" />
+            </div>
+            <div>
+                <label for="select3">Варіант 3</label>
+                <input type="checkbox" name="select_variations" value="select3" id="select3" />
+            </div>
+        </fieldset>
+
+        <fieldset class="form5">
+            <legend>Вибір одного значення</legend>
+            <label for="">Виберіть значення</label>
+            <div>
+                <label for="select1_radio">Варіант 1</label>
+                <input type="radio" name="select_variations_radio" value="select1_radio" id="select1_radio"
+                    style="margin-left: 9px" />
+            </div>
+            <div>
+                <label for="select2_radio">Варіант 2</label>
+                <input type="radio" name="select_variations_radio" value="select2_radio" id="select2_radio" />
+            </div>
+            <div>
+                <label for="select3_radio">Варіант 3</label>
+                <input type="radio" name="select_variations_radio" value="select3_radio" id="select3_radio" />
+            </div>
+        </fieldset>
+
+        <fieldset class="form6">
+            <legend>Функцііональні кнопки</legend>
+
+            <input type="submit" value="Надіслати дані">
+            <input type="reset" value="Скинути форму">
+            <button type="submit">Надіслати дані2</button>
+
+        </fieldset>
+
+        <fieldset class="form7">
+            <legend>Прогрес</legend>
+            <progress id="progress" max="100" min="10"></progress>
+        </fieldset>
+
+    </form>
+
+    <div class="audio">
+        <h2>Робота з аудіо</h2>
+        <div>
+            <audio src="/audio/music.mp3" controls="controls" type="audio/mp3"></audio>
+            <audio src="/audio/music.aac" controls="controls" type="audio/aac"></audio>
+            <audio src="/audio/music.ogg" controls="controls" type="audio/ogg"></audio>
+            <audio src="/audio/music.wav" controls="controls" type="audio/wav"></audio>
+
+        </div>
+    </div>
+
+    <div class="video">
+        <h2>Робота з відео</h2>
+        <video src="/video/animals.mp4" type="video/mp4" controls="controls" poster="/images/image.png" width="500px"
+            height="300px"></video>
+        <video src="/video/animals.webm" type="video/webm" controls="controls" poster="/images/image.png" width="500px"
+            height="300px"></video>
+        <video src="/video/animals.ogv" type="video/ogv" controls="controls" poster="/images/image.png" width="500px"
+            height="300px"></video>
+    </div>
+
+
+
+    <footer>
+        <div class="image">
+            <img src="/images/logo.png" alt="logo">
+        </div>
+        <div class="nav">
+            <ul class="">
+                <li>
+                    <a href="/">1 урок</a>
+                </li>
+                <li>
+                    <a href="/2 lesson.html">2 урок</a>
+                </li>
+                <li>
+                    <a href="/3 lesson.html">3 урок</a>
+                </li>
+                <li>
+                    <a href="/4 lesson.html">4 урок</a>
+                </li>
+                <li>
+                    <a href="/5 lesson.html">5 урок</a>
+                </li>
+                <li>
+                    <a href="/6 lesson.html">6 урок</a>
+                </li>
+                <li>
+                    <a href="/7 lesson.html">7 урок</a>
+                </li>
+                <li>
+                    <a href="/8 lesson.html">8 урок</a>
+                </li>
+                <li>
+                    <a href="/9 lesson.html">9 урок</a>
+                </li>
+                <li>
+                    <a href="/10 lesson.html">10 урок</a>
+                </li>
+                <li>
+                    <a href="/11 lesson.html">11 урок</a>
+                </li>
+                <li>
+                    <a href="/12 lesson.html">12 урок</a>
+                </li>
+                <li>
+                    <a href="/13 lesson.html">13 урок</a>
+                </li>
+                <li>
+                    <a href="/14 lesson.html">14 урок</a>
+                </li>
+            </ul>
+        </div>
+        <div class="copyright">
+            <p>Copyright 2022 by Me. All Rights Reserved.</p>
+        </div>
+        <div class="sprite_footer">
+            <a href="https://t.me/Kuna1998" target="_blank">
+                <div class="icon icon1"></div>
+            </a>
+            <a href="https://www.facebook.com/people/%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D0%9A%D1%83%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9/100001965508869/
+        " target="_blank">
+                <div class="icon icon2"></div>
+            </a>
+            <a href="https://www.youtube.com/channel/UCz1M5klpDn8C-QbWKibSSmw/featured" target="_blank">
+                <div class="icon icon3"></div>
+            </a>
+        </div>
+    </footer>
+
+</body>
+
+</html>

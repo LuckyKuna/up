@@ -1,0 +1,117 @@
+body {
+  position: relative;
+}
+body .container {
+  position: relative;
+}
+body .container header {
+  position: relative;
+}
+body .container header img {
+  position: relative;
+}
+body .container .content {
+  position: relative;
+}
+body .container .content .product_image {
+  position: relative;
+}
+body .container .content .product_image .product_slider {
+  position: relative;
+}
+body .container .content .product_image .product_slider img {
+  position: relative;
+}
+body .container .content .product_image .product_slider_nav {
+  position: relative;
+}
+body .container .content .product_image .product_slider_nav img {
+  position: relative;
+}
+body .container .content .product_info_right {
+  position: relative;
+}
+body .container .content .product_info_right h1 {
+  position: relative;
+}
+body .container .content .product_info_right .desc {
+  position: relative;
+}
+body .container .content .product_info_container {
+  position: relative;
+}
+body .container .content .product_info_container .benefits {
+  position: relative;
+}
+body .container .content .product_info_container .benefits .benefit {
+  position: relative;
+}
+body .container .content .product_info_container .benefits .benefit img {
+  position: relative;
+}
+body .container .content .product_info_container .benefits .benefit span {
+  position: relative;
+}
+body .container .content .product_info_container .product_image {
+  position: relative;
+}
+body .container .content .product_info_container .product_image img {
+  position: relative;
+}
+body .container .content .product_info_container .product_image_dessc {
+  position: relative;
+}
+body .container .content .product_info_container .product_image_dessc .product_image {
+  position: relative;
+}
+body .container .content .product_info_container .product_image_dessc .product_image img {
+  position: relative;
+}
+body .container .content .product_info_container .product_image_dessc .product_desc {
+  position: relative;
+}
+body .container .content .product_specs {
+  position: relative;
+}
+body .container .content .product_specs .product_spec {
+  position: relative;
+}
+body .container .content .product_specs .product_spec .title_spec {
+  position: relative;
+}
+body .container .content .product_specs .product_spec ul {
+  position: relative;
+}
+body .container .content .product_specs .product_spec ul li {
+  position: relative;
+}
+body .container .content .product_specs_table {
+  position: relative;
+}
+body .container .content .product_specs_table .spec_table_row {
+  position: relative;
+}
+body .container .content .product_specs_table .spec_table_row .name {
+  position: relative;
+}
+body .container .content .product_specs_table .spec_table_row .value {
+  position: relative;
+}
+body .container .content .desc {
+  position: relative;
+}
+body .container footer {
+  position: relative;
+}
+body .container footer .logo {
+  position: relative;
+}
+body .container footer .logo img {
+  position: relative;
+}
+body .container footer .contact {
+  position: relative;
+}
+body .container footer .contact a {
+  position: relative;
+}/*# sourceMappingURL=style.css.map */

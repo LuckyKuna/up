@@ -1,0 +1,117 @@
+body{
+    position: relative;
+    .container{
+        position: relative;
+        header{
+            position: relative;
+            img{
+                position: relative;
+            }
+        }
+        .content{
+            position: relative;
+            .product_image{
+                position: relative;
+                .product_slider{
+                    position: relative;
+                    img{
+                        position: relative;
+                    }
+                }
+                .product_slider_nav{
+                    position: relative;
+                    img{
+                        position: relative;
+                    }
+                }
+            }
+            .product_info_right{
+                position: relative;
+                h1{
+                    position: relative;
+                }
+                .desc{
+                    position: relative;
+                }
+            }
+            .product_info_container{
+                position: relative;
+                .benefits{
+                    position: relative;
+                    .benefit{
+                        position: relative;
+                        img{
+                            position: relative;
+                        }
+                        span{
+                            position: relative;
+                        }
+                    }
+                }
+                .product_image{
+                    position: relative;
+                    img{
+                        position: relative;
+                    }
+                }
+                .product_image_dessc{
+                    position: relative;
+                    .product_image{
+                        position: relative;
+                        img{
+                            position: relative;
+                        }
+                    }
+                    .product_desc{
+                        position: relative;
+                    }
+                }
+            }
+            .product_specs{
+                position: relative;
+                .product_spec{
+                    position: relative;
+                    .title_spec{
+                        position: relative;
+                    }
+                    ul{
+                        position: relative;
+                        li{
+                            position: relative;
+                        }
+                    }
+                }
+            }
+            .product_specs_table{
+                position: relative;
+                .spec_table_row{
+                    position: relative;
+                    .name{
+                        position: relative;
+                    }
+                    .value{
+                        position: relative;
+                    }
+                }
+            }
+            .desc{
+                position: relative;
+            }
+        }
+        footer{
+            position: relative;
+            .logo{
+                position: relative;
+                img{
+                    position: relative;
+                }
+            }
+            .contact{
+                position: relative;
+                a{
+                    position: relative;
+                }
+            }
+        }
+    }
+}
